@@ -1,1 +1,1 @@
-web: gunicorn hellotest.wsgi:application
+web: gunicorn travelblog.wsgi:application
